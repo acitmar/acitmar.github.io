@@ -1,0 +1,18 @@
+.Nav-Text {
+    color: #ffffff;
+    text-shadow: 0 1px
+}
+
+.Nav-Border {
+    border-radius: 2em;
+}
+
+.Logo-size {
+    max-width: 10vmin;
+    max-height: 20vmin;
+}
+
+.App-logo {
+    height: 10vmin;
+    width: 5vmin;
+  }
