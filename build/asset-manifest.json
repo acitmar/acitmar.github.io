@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/acitmar/static/css/main.15298ee2.chunk.css",
+    "main.js": "/acitmar/static/js/main.53b588a6.chunk.js",
+    "main.js.map": "/acitmar/static/js/main.53b588a6.chunk.js.map",
+    "runtime-main.js": "/acitmar/static/js/runtime-main.2e3d0db5.js",
+    "runtime-main.js.map": "/acitmar/static/js/runtime-main.2e3d0db5.js.map",
+    "static/css/2.7cf1c5b2.chunk.css": "/acitmar/static/css/2.7cf1c5b2.chunk.css",
+    "static/js/2.1d05ffe0.chunk.js": "/acitmar/static/js/2.1d05ffe0.chunk.js",
+    "static/js/2.1d05ffe0.chunk.js.map": "/acitmar/static/js/2.1d05ffe0.chunk.js.map",
+    "index.html": "/acitmar/index.html",
+    "static/css/2.7cf1c5b2.chunk.css.map": "/acitmar/static/css/2.7cf1c5b2.chunk.css.map",
+    "static/css/main.15298ee2.chunk.css.map": "/acitmar/static/css/main.15298ee2.chunk.css.map",
+    "static/js/2.1d05ffe0.chunk.js.LICENSE.txt": "/acitmar/static/js/2.1d05ffe0.chunk.js.LICENSE.txt",
+    "static/media/Acitmar.8097599d.png": "/acitmar/static/media/Acitmar.8097599d.png",
+    "static/media/Alaced.a869d2f7.png": "/acitmar/static/media/Alaced.a869d2f7.png",
+    "static/media/Cifp.d24a77d7.png": "/acitmar/static/media/Cifp.d24a77d7.png",
+    "static/media/Iacass.2a16a8f3.png": "/acitmar/static/media/Iacass.2a16a8f3.png",
+    "static/media/JeanPiaget.e07be14d.png": "/acitmar/static/media/JeanPiaget.e07be14d.png",
+    "static/media/acitmarLOGO.cc9c7bcf.gif": "/acitmar/static/media/acitmarLOGO.cc9c7bcf.gif",
+    "static/media/alianzasnacionales.65f77133.gif": "/acitmar/static/media/alianzasnacionales.65f77133.gif",
+    "static/media/conveniosinternacionales.78960806.gif": "/acitmar/static/media/conveniosinternacionales.78960806.gif",
+    "static/media/desarrollopersonal.83a4c463.jpg": "/acitmar/static/media/desarrollopersonal.83a4c463.jpg",
+    "static/media/disciplina.8f7bf539.jpg": "/acitmar/static/media/disciplina.8f7bf539.jpg",
+    "static/media/pagina1.a354afcc.png": "/acitmar/static/media/pagina1.a354afcc.png",
+    "static/media/salud.9bf032cd.jpg": "/acitmar/static/media/salud.9bf032cd.jpg",
+    "static/media/videoAcitmar.1fff9f03.gif": "/acitmar/static/media/videoAcitmar.1fff9f03.gif",
+    "static/media/visual1.df474c59.gif": "/acitmar/static/media/visual1.df474c59.gif",
+    "static/media/visual2.eacd6a7e.gif": "/acitmar/static/media/visual2.eacd6a7e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e3d0db5.js",
+    "static/css/2.7cf1c5b2.chunk.css",
+    "static/js/2.1d05ffe0.chunk.js",
+    "static/css/main.15298ee2.chunk.css",
+    "static/js/main.53b588a6.chunk.js"
+  ]
+}
