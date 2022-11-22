@@ -45,7 +45,7 @@ const App = () => (
       <Container className="p-5 mb-4 bg-light rounded-3">
         <TwitterTimelineEmbed
             sourceType="profile"
-            screenName="centroacitmar"
+            screenName="acitmar_ser"
             options={{height: 1000}}
           />
       </Container>
