@@ -22,7 +22,7 @@ function FooterAcitmar() {
             <SocialIcon url="https://www.instagram.com/acitmar_ser/"></SocialIcon>
           </MDBBtn>
           <MDBBtn outline color="light" floating className='m-1' href='#!' role='button'>
-            <SocialIcon url="https://twitter.com/centroacitmar"></SocialIcon>
+            <SocialIcon url="https://twitter.com/acitmar_ser"></SocialIcon>
           </MDBBtn>
         </section>
         <br/><br/>
@@ -73,8 +73,8 @@ function FooterAcitmar() {
 
               <ul className='list-unstyled mb-0'>
                 <li>
-                  <a href='https://twitter.com/centroacitmar' className='text-white'>
-                    @centroacitmar
+                  <a href='https://twitter.com/acitmar_ser' className='text-white'>
+                    @acitmar_ser
                   </a>
                 </li>
               </ul>
