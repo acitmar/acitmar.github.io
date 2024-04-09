@@ -33,7 +33,7 @@ function NavBarAcitmar() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Button variant="light" onClick={handleShow}>¿Quienes Somos?</Button>
+            <Button variant="light" onClick={handleShow}>¿Quiénes Somos?</Button>
             <Button variant="light" onClick={handleShowMision}>Misión</Button>
             <Button variant="light" onClick={handleShowVision}>Visión</Button>
           </Nav>

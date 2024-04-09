@@ -6,7 +6,7 @@ import NavBarAcitmar from './components/navbar/NavBarAcitmar';
 import GroupCards from './components/GroupCards/GroupCards';
 import CarouselAcitmar from './components/CarouselAcitmar/CarouselAcitmar'
 import FooterAcitmar from './components/FooterAcitmar/FooterAcitmar';
-import { TwitterTimelineEmbed, TwitterShareButton, TwitterFollowButton, TwitterHashtagButton, TwitterMentionButton, TwitterTweetEmbed, TwitterMomentShare, TwitterDMButton, TwitterVideoEmbed, TwitterOnAirButton } from 'react-twitter-embed';
+import { TwitterTimelineEmbed } from 'react-twitter-embed';
 import logo from './img/acitmarLOGO.gif'
 import video from './img/videoAcitmar.gif';
 import visual_one from './img/visual1.gif'
