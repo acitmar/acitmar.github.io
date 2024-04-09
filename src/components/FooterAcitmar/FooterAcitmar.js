@@ -2,7 +2,6 @@ import React from 'react';
 import {
   MDBFooter,
   MDBContainer,
-  MDBInput,
   MDBCol,
   MDBRow,
   MDBBtn

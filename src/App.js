@@ -11,6 +11,7 @@ import logo from './img/acitmarLOGO.gif'
 import video from './img/videoAcitmar.gif';
 import visual_one from './img/visual1.gif'
 import visual_two from './img/visual2.gif'
+import BlogAcitmar from './components/BlogAcitmar/BlogAcitmar';
 
 import './App.css';
 
@@ -43,10 +44,7 @@ const App = () => (
         <GroupCards></GroupCards>
       </Container>
       <Container className="p-5 mb-4 bg-light rounded-3">
-        <TwitterTimelineEmbed
-            sourceType="profile"
-            screenName="acitmar_ser"
-            options={{height: 1000}}
+        <BlogAcitmar
           />
       </Container>
     </Container>

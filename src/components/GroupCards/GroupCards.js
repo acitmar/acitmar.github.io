@@ -1,16 +1,7 @@
 import Card from 'react-bootstrap/Card';
-import Acitmar  from '../../img/Acitmar.png';
-import Alaced from '../../img/Alaced.png';
-import Cifp from '../../img/Cifp.png';
-import Iacass from '../../img/Iacass.png';
-import JeanPiaget from '../../img/JeanPiaget.png'
 import salud from '../../img/salud.jpg'
 import disciplina from '../../img/disciplina.jpg'
 import personal from '../../img/desarrollopersonal.jpg'
-import Button from 'react-bootstrap/Button';
-import ButtonToolbar from 'react-bootstrap/ButtonToolbar';
-import { LinkContainer } from 'react-router-bootstrap';
-import ThemeProvider from 'react-bootstrap/ThemeProvider';
 import CardGroup from 'react-bootstrap/CardGroup';
 
 function GroupCards() {
